@@ -367,7 +367,6 @@ function Checkout({ selectedItem, setSelectedItem }) {
       return;
     }
     setSelectedItem([]);
-    // setSubTotal(0);
     setshipping(0);
   }
 
